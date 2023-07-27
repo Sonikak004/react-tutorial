@@ -1,0 +1,28 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.listinput {
+  width: 348px;
+  margin-left: 71px;
+}
+
+.grebut {
+  margin-left: 10px;
+  background: #14b312;
+}
+
+.redbut {
+  margin-left: 10px;
+  background: #ec2409;
+}
+
+.input-listwrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 35px;  
+}
